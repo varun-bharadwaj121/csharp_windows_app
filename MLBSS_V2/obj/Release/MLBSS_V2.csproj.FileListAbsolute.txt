@@ -1,0 +1,15 @@
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\MLBSS_V2.exe.config
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\MLBSS_V2.exe
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\MLBSS_V2.pdb
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\System.Data.SQLite.dll
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\System.Data.SQLite.xml
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\bin\Release\System.Data.SQLite.dll.config
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.csprojAssemblyReference.cache
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.Form1.resources
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.Properties.Resources.resources
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.csproj.GenerateResource.cache
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.csproj.CoreCompileInputs.cache
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.csproj.CopyComplete
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.exe
+C:\Users\JivaSci\source\repos\MLBSS_V2\MLBSS_V2\obj\Release\MLBSS_V2.pdb
